@@ -9,7 +9,7 @@ public class Profile : MonoBehaviour
     void Start()
     {
       name = "Pablo";
-      occupation = "Learning Unity & C#, for videogames development!";
+      occupation = "Learning Unity & C#, for games development!";
     }
 }
 ```
